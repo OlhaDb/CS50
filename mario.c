@@ -2,6 +2,7 @@
 #include<stdio.h>
 
 int main(void)
+    //make a piramid like in mario game
 {
 int v = 1;
 char y = ' ';
@@ -9,6 +10,7 @@ char x = '#';
 int n;
 do
 {
+    // ask the height of the piramid
     printf("Number: ");
     n = GetInt();
 }
