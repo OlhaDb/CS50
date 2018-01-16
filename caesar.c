@@ -28,10 +28,7 @@ for (int i = 0, m = strlen(n);i < m;i++)
                 {
                     printf ("%c", n[i]);
                 }
-     
-                       
-            }   
-            
+          }  
              printf ("\n");
 
 }
